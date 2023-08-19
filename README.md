@@ -1,15 +1,15 @@
-# Bem-vindo ao Meu Perfil GitHub! 👋
+# Welcome to my Github Profile! 👋
 
-Olá! Eu sou Maira Pedrosa 👩‍💻, uma entusiasta de programação apaixonada por desenvolvimento web. Este é o meu espaço onde compartilho projetos e experimentos relacionados a linguagens de programação.
+Hello! I'm Maira Pedrosa 👩‍💻, a programming enthusiast passionate about web development. This is my space where I share projects and experiments related to programming languages.
 
-## Sobre Mim 🙋‍♀️
+## About Me 🙋‍♀️
 
-- Localização: Recife-PE 🌴
+- Location: Recife, Brazil 🌴
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma%C3%ADra-pedrosa-17b946200/)
 
-- Adoro jogos de tabuleiro 🎲: Quando não estou programando, você pode me encontrar imersa em uma emocionante partida de Catan, Ticket to Ride ou algum outro jogo estratégico de tabuleiro.
+- Board game lover 🎲: When I'm not coding, you can find me immersed in an exciting game of Catan, Ticket to Ride, or some other strategic board game.
 
-- Eterna estudante de tecnologia 📚: Sou apaixonada por aprender sobre as últimas tendências em tecnologia, desde novas linguagens de programação até os avanços mais recentes em desenvolvimento web.
+- Lifelong tech learner 📚: I'm passionate about staying updated on the latest technology trends, from new programming languages to the most recent advancements in web development.
 
 ## Hard Skills 🚀 
 
@@ -22,11 +22,12 @@ Olá! Eu sou Maira Pedrosa 👩‍💻, uma entusiasta de programação apaixona
 </p>
 
 ## Soft Skills
- - Trabalho em Equipe
- - Adaptabilidade
- - Colaboração
- - Comunicação Interpessoal
- - Habilidade de Escuta
+
+- Teamwork
+- Adaptability
+- Collaboration
+- Interpersonal Communication
+- Listening Skills
 
 ## Status Cards
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
