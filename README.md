@@ -1,4 +1,4 @@
-# Bem-vinda ao Meu Perfil GitHub! 👋
+# Bem-vindo ao Meu Perfil GitHub! 👋
 
 Olá! Eu sou Maira Pedrosa 👩‍💻, uma entusiasta de programação apaixonada por desenvolvimento web. Este é o meu espaço onde compartilho projetos e experimentos relacionados a linguagens de programação.
 
